@@ -1,6 +1,6 @@
-# GuangWei | Senior Technology Professional
+# Guang Wei (Zack) | Full Stack Developer
 
-I am a Senior Technology Professional specializing in data engineeringg and full-stack development within regulated, high-scale banking environments. I build resilient, cost-effective cloud native solutions while ensuring enterprise-level security and platform reliability.
+I am a senior technology professional specializing in data engineeringg and full-stack development within regulated, high-scale banking environments. I build resilient, cost-effective cloud native solutions while ensuring enterprise-level security and platform reliability.
 
 ---
 
